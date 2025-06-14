@@ -64,7 +64,7 @@ const EditTask = () => {
   return (
     <div className="flex justify-center mt-8">
       <div className="w-full max-w-2xl px-6">
-        <h1 className="mb-4 text-4xl font-bold">Add New Task</h1>
+        <h1 className="mb-4 text-4xl font-bold">Edit Task: </h1>
 
         <form onSubmit={handleSubmit}>
           <div className="flex gap-2">
@@ -78,7 +78,7 @@ const EditTask = () => {
               required
             />
             <button className={`bg-blue-700 text-white ${style.btnStyle} `}>
-              Update Task
+              Update
             </button>
           </div>
           <input
