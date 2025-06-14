@@ -146,14 +146,13 @@ The frontend will run at `http://localhost:5173` (Vite default)
 
 ## 🖼️ Screenshots
 
-| Edit Page| Handling Failures | Handling Failures |
+ Handling Failures | Handling Failures |
  ------------------------------------- | --------------------------------------- | | ----------------------- |
 |  ![Add Task](screenshots/edit_task.png) | ![Edit Task](screenshots/handlind_failures.png)| ![Delete Task](screenshots/delete_task.png) 
 
-| Home Task |
+| Home Task |                                                                               | Edit Page|
 | ----------------------------- |
-![Home](screenshots/home.png)
-<img src="screenshots/home.png" alt="Home Page" width="500" height="300" />
+<img src="screenshots/home.png" alt="Home Page" width="600" height="300" /> <img src="screenshots/edit_task.png" alt="Home Page" width="600" height="300" />
 
 ---
 
