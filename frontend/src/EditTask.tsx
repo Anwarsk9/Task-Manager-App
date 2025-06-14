@@ -47,7 +47,7 @@ const EditTask = () => {
           error: <b>Failed to update the Task!</b>,
         }
       );
-      if (res.statusText === "OK") {
+      if (res.status === 200) {
         navigate("/");
       }
     } catch (e) {
