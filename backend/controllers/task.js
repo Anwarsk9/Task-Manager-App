@@ -44,4 +44,4 @@ const removeTask = (req, res) => {
   }
 };
 
-export { index, createTask, sendTask, editTask, removeTask };
+export default { index, createTask, sendTask, editTask, removeTask };
